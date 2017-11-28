@@ -1,0 +1,84 @@
+[
+	[
+		{"src":"img/o1.jpg","content":"54度 董酒 特级果蜜 500ml","prace":"479元"},
+		{"src":"img/o2.jpg","content":"54度 董酒 特级果蜜啊啊啊 500ml","prace":"199元"},
+		{"src":"img/o3.jpg","content":"54度 董酒 特级果蜜 500ml","prace":"298元"},
+		{"src":"img/o4.jpg","content":"54度 董酒 特级果蜜 500ml","prace":"238元"},
+		{"src":"img/o5.jpg","content":"54度 董酒 特级果蜜 对对对500ml","prace":"138元"},
+		{"src":"img/o6.jpg","content":"54度 董酒 特级果蜜 500ml","prace":"158元"},
+		{"src":"img/o7.jpg","content":"54度 董酒 特级果蜜 500ml","prace":"298元"}
+		
+	],
+	[
+		[
+			{"src":"img/t0.jpg","content":"","prace":"","youhui":""}
+		],
+		[
+		{"src":"img/t1.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"116元","youhui":"买一得二"},
+		{"src":"img/t2.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"349元","youhui":"重磅推出"},
+		{"src":"img/t3.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"1999元","youhui":"下单减500"},
+		{"src":"img/t4.jpg","content":"52度 全兴大曲 窖龄20 啊啊啊啊500ml*2","prace":"116元","youhui":"下单减500"},
+		{"src":"img/t5.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"349元","youhui":"战略单品"},
+		{"src":"img/t6.jpg","content":"52度 全兴大曲 窖龄20 啊啊啊啊啊500ml","prace":"1999元","youhui":"五福临门"}
+		]
+	],
+	[
+		[
+			{"src":"img/31.jpg"},
+			{"src":"img/35.jpg"}
+		],
+		[
+			{"src":"img/32.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"116元","youhui":"多买优惠"},
+			{"src":"img/33.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"349元","youhui":""},
+			{"src":"img/34.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"1999元","youhui":""},
+			{"src":"img/36.jpg","content":"52度 全兴大曲 窖龄20 啊啊啊啊500ml*2","prace":"116元","youhui":"买一享二"},
+			{"src":"img/37.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"349元","youhui":""},
+			{"src":"img/38.jpg","content":"52度 全兴大曲 窖龄20 啊啊啊啊啊500ml","prace":"1999元","youhui":""}		
+		]
+	],
+	[
+		[
+			{"src":"img/41.jpg","content":"","prace":"","youhui":""}
+		],
+		[
+		{"src":"img/42.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"116元","youhui":"立减100"},
+		{"src":"img/43.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"349元","youhui":""},
+		{"src":"img/44.jpg","content":"52度 全兴大曲 窖龄20 500ml","prace":"1999元","youhui":""}
+		]
+	],
+	[
+		{"src":"img/51.jpg","content":"54度 董酒 特级果蜜 500ml","prace":"479元","haoping":"1人好评"},
+		{"src":"img/52.jpg","content":"54度 董酒 特级果蜜啊啊啊啊啊 500ml","prace":"199元","haoping":"6人好评"},
+		{"src":"img/53.jpg","content":"54度 董酒 特级果啊啊啊啊啊啊啊蜜 500ml","prace":"298元","haoping":"1人好评"},
+		{"src":"img/54.jpg","content":"54度 董酒 特级果蜜 500ml","prace":"238元","haoping":"4人好评"},
+		{"src":"img/55.jpg","content":"54度 董酒 特级果蜜 对对对500ml","prace":"138元","haoping":"10人好评"}
+	],
+	[
+		{"src":"img/61.jpg","jieshao":"54度 董酒 特级果蜜 500ml","prace":"479元","person":"来自XXXXX的评价","content":"非常大气的一坛酒，买来收藏的，存个几年再拿出来，在购酒网买酒多次，都很满意，这么大一坛酒完美送到，赞一个，希望购酒网越做越好!"},
+		{"src":"img/62.jpg","jieshao":"54度 董酒 特级果蜜 aaa500ml","prace":"479元","person":"来自XXXXX的评价","content":"买了有几天了，昨天晚上同事聚会拿出来喝了，口感挺不错的，价钱也实惠，同事喝着都说口感不错，大支跟划算，喝起来得劲，挺满意的，有需要再来买"},
+		{"src":"img/63.jpg","jieshao":"54度 董酒 特级果蜜 500ml","prace":"479元","person":"来自XXXXX的评价","content":"传说中的赖茅，朋友一致推荐，买了两瓶传承试饮，感觉很值，茅系酱香，醇厚，回味好"},
+		{"src":"img/64.jpg","jieshao":"54度 董酒 特级果aaa蜜 500ml","prace":"479元","person":"来自XXXXX的评价","content":"非常大气的一坛酒，买来收藏的，存个几年再拿出来，在购酒网买酒多次，都很满意，这么大一坛酒完美送到，赞一个，希望购酒网越做越好!"}
+	],
+	[
+		{"src":"vedio/3.mp4","content":"否九网（上海）供应链管理总部简介","pic":"img/1_11.jpg","bo":"▶"},
+		{"src":"vedio/4.mp4","content":"否九网（上海）供应链管理总部简介","pic":"img/1_13.jpg","bo":"▶"},
+		{"src":"vedio/3.mp4","content":"否九网（上海）供应链管理总部简介","pic":"img/1_15.jpg","bo":"▶"},
+		{"src":"vedio/4.mp4","content":"否九网（上海）供应链管理总部简介","pic":"img/1_17.jpg","bo":"▶"}
+	],
+	[
+		{"content":["aa","bb","cc","dd","ee"]}
+	],
+	[
+		
+		{"id":"s1","gou":[{"name":"购酒推荐","name_j":["特卖会","高端收藏","大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"红酒洋酒专场","name_j":["大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"名庄红酒","name_j":["特卖会","高端收藏","大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"特色专区","name_j":["婚宴酒","清仓价"]}],"adpic":["img/10.jpg","img/五粮液.jpg","img/剑南春.jpg","img/04.jpg","img/08.jpg","img/珍酒.jpg","img/奔富.jpg","img/lafei.jpg","img/芝华士.jpg","img/01.jpg"]},
+		{"id":"s2","gou":[{"name":"知名白酒品牌","name_j":["特卖会","高端收藏","大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"地狱白酒品牌","name_j":["大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"香型","name_j":["凤香型","馥郁香","特香型","芝麻香","兼香型"]},{"name":"价位","name_j":["1-99","100-199","200-299","600-999"]}],"adpic":["img/10.jpg","img/五粮液.jpg","img/剑南春.jpg","img/04.jpg","img/08.jpg","img/珍酒.jpg","img/奔富.jpg","img/lafei.jpg","img/芝华士.jpg","img/01.jpg"]},
+		{"id":"s3","gou":[{"name":"知名白酒品牌","name_j":["特卖会","高端收藏","大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"地狱白酒品牌","name_j":["大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"类别","name_j":["凤香型","馥郁香","特香型","芝麻香","兼香型"]},{"name":"国家","name_j":["法国","澳大利亚","意大利","德国","西班牙","智利","南非","中国","葡萄牙","美国"]},{"name":"价位","name_j":["1-99","100-199","200-299","600-999"]}],"adpic":["img/10.jpg","img/五粮液.jpg","img/剑南春.jpg","img/04.jpg","img/08.jpg","img/珍酒.jpg","img/奔富.jpg","img/lafei.jpg","img/芝华士.jpg","img/01.jpg"]},
+		{"id":"s4","gou":[{"name":"品牌","name_j":["特卖会","高端收藏","大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"品类","name_j":["大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"价位","name_j":["1-99","100-199","200-299","600-999"]}],"adpic":["img/10.jpg","img/五粮液.jpg","img/剑南春.jpg","img/04.jpg","img/08.jpg","img/珍酒.jpg","img/奔富.jpg","img/lafei.jpg","img/芝华士.jpg","img/01.jpg"]},
+		{"id":"s5","gou":[{"name":"品牌","name_j":["特卖会","高端收藏","大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"价位","name_j":["1-99","100-199","200-299","600-999"]}],"adpic":["img/10.jpg","img/五粮液.jpg","img/剑南春.jpg","img/04.jpg","img/08.jpg","img/珍酒.jpg","img/奔富.jpg","img/lafei.jpg","img/芝华士.jpg","img/01.jpg"]},
+		{"id":"s6","gou":[{"name":"品牌","name_j":["特卖会","高端收藏","大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"价位","name_j":["1-99","100-199","200-299","600-999"]}],"adpic":["img/10.jpg","img/五粮液.jpg","img/剑南春.jpg","img/04.jpg","img/08.jpg","img/珍酒.jpg","img/lafei.jpg","img/芝华士.jpg","img/01.jpg"]},
+		{"id":"s7","gou":[{"name":"品牌","name_j":["特卖会","高端收藏","大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"价位","name_j":["1-99","100-199","200-299","600-999"]}],"adpic":["img/10.jpg","img/五粮液.jpg","img/剑南春.jpg","img/04.jpg","img/08.jpg","img/珍酒.jpg","img/lafei.jpg"]},
+		{"id":"s8","gou":[{"name":"品牌","name_j":["特卖会","高端收藏","大贪酒专场","整箱购","婚宴酒","清仓价","年份老旧"]},{"name":"价位","name_j":["1-99","100-199","200-299","600-999"]}],"adpic":[]}
+	
+	]
+]
+

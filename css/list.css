@@ -1,0 +1,604 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #f5f5f5;
+}
+
+.bsear {
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  background: #fff;
+  z-index: 1000;
+  display: none;
+}
+
+.bsear img {
+  float: left;
+  margin-left: 10px;
+}
+
+.bsear ul {
+  float: right;
+  margin-right: 35px;
+}
+
+.bsear ul li {
+  float: right;
+}
+
+.bsear ul li p {
+  height: 50px;
+  line-height: 50px;
+}
+
+.bsear ul li p a {
+  padding: 0 26px;
+  color: #000;
+  font-size: 14px;
+}
+
+.bsear ul li p a:hover {
+  color: #cc0210;
+}
+
+.bsear ul li img {
+  float: left;
+}
+
+.bsear ul li span {
+  float: left;
+  margin-left: 20px;
+  margin-top: 13px;
+}
+
+.bsear ul li #gcount {
+  padding: 0 5px;
+  background: red;
+  border-radius: 50%;
+}
+
+.fly {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  z-index: 1005;
+}
+
+.chose {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background: #fff;
+  padding-bottom: 20px;
+}
+
+.chose .choose {
+  width: 1180px;
+  height: auto;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.chose .choose p {
+  padding: 15px 0;
+  padding-left: 15px;
+  font-size: 12px;
+}
+
+.chose .choose dl {
+  padding-left: 15px;
+  border-top: 1px dashed #ccc;
+  height: auto;
+  overflow: hidden;
+  padding: 10px 0;
+}
+
+.chose .choose dl dt {
+  float: left;
+  width: 80px;
+  color: #848484;
+  font-size: 12px;
+  padding-top: 5px;
+}
+
+.chose .choose dl dd {
+  width: 1070px;
+  float: left;
+  width: 1070px;
+}
+
+.chose .choose dl dd .more {
+  position: absolute;
+}
+
+.chose .choose dl dd .more li {
+  width: 98px;
+  height: 32px;
+  float: left;
+  border: 1px solid #ccc;
+  border-left: none;
+  text-align: center;
+  line-height: 32px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  color: #999;
+  cursor: pointer;
+  margin-right: 0;
+}
+
+.chose .choose dl dd .more li ol {
+  position: absolute;
+  display: none;
+  border: 1px solid #ccc;
+  height: 32px !important;
+  width: 1140px;
+  background: #fff;
+}
+
+.chose .choose dl dd .more li ol li {
+  border: none;
+  float: left;
+  margin-right: 10px;
+}
+
+.chose .choose dl dd .more li ol li:hover {
+  background: red;
+  color: #fff;
+}
+
+.chose .choose dl dd .more li:nth-child(1) {
+  border-left: 1px solid #ccc;
+}
+
+.chose .choose dl dd .more li:hover {
+  background: #fff;
+  color: #999;
+}
+
+.chose .choose dl dd ul {
+  width: 991px;
+  height: auto;
+  float: left;
+}
+
+.chose .choose dl dd ul li {
+  width: 54px;
+  height: 26px;
+  float: left;
+  margin-right: 15px;
+  border-left: none;
+  text-align: center;
+  line-height: 26px;
+  font-size: 12px;
+  color: #999;
+  cursor: pointer;
+}
+
+.chose .choose dl dd ul li:hover {
+  background: red;
+  color: #fff;
+}
+
+.chose .choose .tiao dt {
+  padding-top: 5px;
+}
+
+.chose .choose .tiao dd p {
+  width: 45px;
+  height: 25px;
+  padding: 0 5px;
+  border: 1px solid #ccc;
+  line-height: 25px;
+}
+
+.chose .choose .tiao dd p b {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  color: red;
+}
+
+.chose .choose .tiao dd p span {
+  font-size: 12px;
+  padding: 0 5px;
+  background: red;
+  color: #fff;
+  margin-left: 2px;
+}
+
+.chose .choose .renqi {
+  padding: 20px 0;
+}
+
+.chose .choose .renqi dt {
+  padding-top: 50px;
+}
+
+.chose .choose .renqi dd {
+  width: 1070px;
+}
+
+.chose .choose .renqi dd ul {
+  width: 991px;
+  height: 124px;
+  overflow: hidden;
+  float: left;
+}
+
+.chose .choose .renqi dd ul li {
+  width: 98px;
+  height: 32px;
+  float: left;
+  border: 1px solid #ccc;
+  border-left: none;
+  text-align: center;
+  line-height: 32px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  color: #999;
+  cursor: pointer;
+  margin-right: 0;
+}
+
+.chose .choose .renqi dd ul li:hover {
+  background: red;
+  color: #fff;
+}
+
+.chose .choose .renqi dd ul li:nth-child(10n+1) {
+  border-left: 1px solid #ccc;
+}
+
+.chose .choose .renqi dd .click {
+  display: block;
+  width: 55px;
+  height: 20px;
+  text-align: center;
+}
+
+.chose .choose .renqi dd span {
+  display: none;
+  border: 1px solid #ccc;
+  line-height: 20px;
+  font-size: 12px;
+  float: right;
+  cursor: pointer;
+}
+
+/*************************************contents************************************/
+.contents {
+  width: 100%;
+  border-top: 4px solid #f1f1f1;
+  height: auto;
+  overflow: hidden;
+}
+
+.contents .contents_1 {
+  width: 1180px;
+  margin: 0 auto;
+  padding-left: 10px;
+  text-align: center;
+  height: 94px;
+}
+
+.contents .contents_1 span {
+  line-height: 94px;
+  float: left;
+}
+
+.contents .contents_1 ul {
+  float: left;
+  padding-top: 35px;
+}
+
+.contents .contents_1 ul li {
+  float: left;
+  width: 85px;
+  height: 28px;
+  line-height: 28px;
+  border: 1px solid #ccc;
+  border-left: none;
+  font-size: 12px;
+}
+
+.contents .contents_1 ul li:first-child {
+  border: 1px solid #ccc;
+}
+
+.contents .contents_1 ul .select {
+  background: #aeaeae;
+  color: #fff;
+}
+
+.contents .contents_2 {
+  width: 1179px;
+  margin: 0 auto;
+  height: auto;
+  overflow: hidden;
+  padding-bottom: 20px;
+}
+
+.contents .contents_2 ul {
+  width: 1178px;
+  height: auto;
+  overflow: hidden;
+}
+
+.contents .contents_2 ul li {
+  cursor: pointer;
+  background: #fff;
+  width: 293px;
+  height: 438px;
+  float: left;
+  border-left: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+
+.contents .contents_2 ul li div {
+  width: 293px;
+}
+
+.contents .contents_2 ul li div h1 {
+  width: 230px;
+  height: 230px;
+  margin-left: 30px;
+  padding-top: 20px;
+  overflow: hidden;
+  position: relative;
+}
+
+.contents .contents_2 ul li div h1 img {
+  position: absolute;
+  left: 0px;
+}
+
+.contents .contents_2 ul li div h1 img:nth-child(2) {
+  left: 230px;
+}
+
+.contents .contents_2 ul li .intro {
+  padding: 20px 27px 0;
+  height: 48px;
+  line-height: 1.5;
+  font-size: 12px;
+}
+
+.contents .contents_2 ul li .spa {
+  padding-left: 27px;
+}
+
+.contents .contents_2 ul li .spa em {
+  font-style: normal;
+  font-weight: normal;
+  background: url(../imglist/pro-icon.png) no-repeat;
+  color: #fff;
+  font-size: 14px;
+}
+
+.contents .contents_2 ul li .spa span {
+  color: red;
+  font-size: 12px;
+  padding-left: 10px;
+}
+
+.contents .contents_2 ul li .cou {
+  padding-left: 27px;
+  font-size: 12px;
+  color: #999;
+}
+
+.contents .contents_2 ul li .pri {
+  padding: 0 27px;
+  height: 40px;
+  margin-top: 26px;
+}
+
+.contents .contents_2 ul li .pri em {
+  font-style: normal;
+  font-weight: normal;
+  color: red;
+  float: left;
+  font-size: 14px;
+  padding-top: 8px;
+}
+
+.contents .contents_2 ul li .pri b {
+  font-size: 22px;
+  color: red;
+  float: left;
+}
+
+.contents .contents_2 ul li .pri span {
+  float: right;
+  display: block;
+  width: 80px;
+  height: 30px;
+  color: #fff;
+  background: red;
+  line-height: 30px;
+  text-align: center;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.contents .contents_2 ul li .pri span:hover {
+  background: #C40000;
+}
+
+.contents .contents_2 ul li:hover {
+  height: 435px;
+  border-bottom: 3px solid darkred;
+}
+
+.contents .next {
+  width: 1179px;
+  margin: 0 auto;
+  padding: 20px 0;
+  height: auto;
+  overflow: hidden;
+}
+
+.contents .next ul {
+  width: 400px;
+  margin: 0 auto;
+  height: auto;
+  overflow: hidden;
+}
+
+.contents .next ul li {
+  cursor: pointer;
+  float: left;
+  width: 30px;
+  height: 26px;
+  line-height: 26px;
+  text-align: center;
+  border-radius: 5px;
+  background: #f1eff0;
+  font-size: 12px;
+  margin: 0 5px;
+}
+
+.contents .next ul li a {
+  font-size: 12px;
+}
+
+.contents .next ul .now {
+  background: red;
+  color: #fff;
+}
+
+/********************************************favor****************************/
+.favor {
+  width: 100%;
+  background: #fff;
+  height: auto;
+  overflow: hidden;
+}
+
+.favor .favor1 {
+  width: 1180px;
+  margin: 0 auto;
+  height: auto;
+  overflow: hidden;
+}
+
+.favor .favor1 .every {
+  height: 60px;
+  padding-left: 20px;
+  font-size: 18px;
+  color: #999;
+  line-height: 60px;
+}
+
+.favor .favor1 ul {
+  width: 1178px;
+  height: auto;
+  overflow: hidden;
+}
+
+.favor .favor1 ul li {
+  cursor: pointer;
+  background: #fff;
+  width: 293px;
+  height: 438px;
+  float: left;
+  border-left: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+
+.favor .favor1 ul li div {
+  width: 293px;
+}
+
+.favor .favor1 ul li div h1 {
+  width: 230px;
+  height: 230px;
+  margin-left: 30px;
+  padding-top: 20px;
+  overflow: hidden;
+  position: relative;
+}
+
+.favor .favor1 ul li div h1 img {
+  position: absolute;
+  left: 0px;
+}
+
+.favor .favor1 ul li div h1 img:nth-child(2) {
+  left: 230px;
+}
+
+.favor .favor1 ul li .intro {
+  padding: 20px 27px 0;
+  height: 48px;
+  line-height: 1.5;
+  font-size: 12px;
+}
+
+.favor .favor1 ul li .spa {
+  padding-left: 27px;
+}
+
+.favor .favor1 ul li .spa em {
+  font-style: normal;
+  font-weight: normal;
+  background: url(../imglist/pro-icon.png) no-repeat;
+  color: #fff;
+  font-size: 14px;
+}
+
+.favor .favor1 ul li .spa span {
+  color: red;
+  font-size: 12px;
+  padding-left: 10px;
+}
+
+.favor .favor1 ul li .cou {
+  padding-left: 27px;
+  font-size: 12px;
+  color: #999;
+}
+
+.favor .favor1 ul li .pri {
+  padding: 0 27px;
+  height: 40px;
+  margin-top: 26px;
+}
+
+.favor .favor1 ul li .pri em {
+  font-style: normal;
+  font-weight: normal;
+  color: red;
+  float: left;
+  font-size: 14px;
+  padding-top: 8px;
+}
+
+.favor .favor1 ul li .pri b {
+  font-size: 22px;
+  color: red;
+  float: left;
+}
+
+.favor .favor1 ul li .pri span {
+  float: right;
+  display: block;
+  width: 80px;
+  height: 30px;
+  color: #fff;
+  background: red;
+  line-height: 30px;
+  text-align: center;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.favor .favor1 ul li:hover {
+  height: 435px;
+  border-bottom: 3px solid darkred;
+}

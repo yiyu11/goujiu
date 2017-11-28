@@ -1,0 +1,61 @@
+{
+	"baijiu":[
+		[
+			{"title":"已选条件:","tiaojian":"白酒"},
+			{"title":"人气品牌:","open":"展开∨","close":"收回∧","pingpai":["茅台","五粮液","剑南春","泸州老窖","国窖1573","茅台","五粮液","剑南春","泸州老窖","国窖1573","郎酒","洋河","汾酒","酒鬼","习酒","水井酒","西风","珍酒","古井贡酒","舒心","白云边","景之","茅台","五粮液","剑南春","泸州老窖","国窖1573","郎酒","洋河","汾酒","酒鬼","习酒","水井酒","西风","珍酒","古井贡酒","舒心","白云边","景之","茅台","五粮液","剑南春","泸州老窖","国窖1573","郎酒","洋河","汾酒","酒鬼","习酒","水井酒","西风","珍酒","古井贡酒","舒心","白云边"]},
+			{"title":"产地:","content":["贵州","四川","山西","江苏","安徽","北京","内蒙古","山东","河北","湖南","新疆","湖北","黑龙江","江西","陕西","四川","山西","江苏","安徽","北京","内蒙古","山东"]},
+			{"title":"香型:","content":["酱香型","清香型","凤香型","馥郁香","特香型","芝麻香","兼香型","金门香","老白干","绵柔型","其他"]},
+			{"title":"更多选项:","content":[{"ne":"酒精度▼","content1":["35度以下","35-39度","40-49度","50度以上"]},{"ne":"净含量▼","content1":["475ML以下","475ML-500ML","500ml","500ML-1L","1L-1.5L","1.5L以上"]},{"ne":"价格▼","content1":["1-99","100-199","200-299","600-999","1000-1999","2000-2999","6000及以上"]}]}
+		],
+		[
+			{"id":"1","name":"茅台","pp":"茅台品牌","zy":"官方自营","att":"667849","fen":"1769","photo":["imgd/a (9).jpg","imgd/a (5).jpg","imgd/a (12).jpg","imgd/a (4).jpg","imgd/a (6).jpg"],"photos":["imgd/1.jpg","imgd/2.jpg","imgd/3.jpg","imgd/4.jpg","imgd/5.jpg"],"img":"imglist/0a1.jpg","pic":"imglist/0a2.jpg","intro":"【组合装】53度 茅台飞天酒（2017年产） 500ml 53度 珍酒经典1975（金） 500ml ","you":"","hui":"","rmb":"￥","price":"1769","count":"424","place":{"huabei":[{"diq":"华北地区:"},{"dim":"北京","status":"现货","money":"20"},{"dim":"天津","status":"现货","money":"10"},{"dim":"河北","status":"现货","money":"20"}],"huazhong":[{"diq":"华中地区:"},{"dim":"北京","status":"现货","money":"20"},{"dim":"天津","status":"现货","money":"10"},{"dim":"河北","status":"现货","money":"20"}],"huanan":[{"diq":"华南地区:"},{"dim":"北京","status":"现货","money":"20"},{"dim":"天津","status":"现货","money":"10"},{"dim":"河北","status":"现货","money":"20"}]},"xq":["品牌：茅台","商品编号：55556666081","净含量：500ml","度数：50度以上","手提袋：每购买2瓶，即赠送原厂手提袋1个","香型：酱香型","箱规：1*6","规格：单瓶"],"intrduce":["imgd/lp_01.jpg","imgd/lp_02.jpg","imgd/lp_03.jpg","imgd/lp_04.jpg","imgd/guanl.jpg"]},
+			{"id":"2","name":"五粮液","img":"imglist/0b1.jpg","pic":"imglist/0b2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"3","name":"五粮液","img":"imglist/0c1.jpg","pic":"imglist/0c2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"4","name":"五粮液","img":"imglist/0d1.jpg","pic":"imglist/0d2.jpg","intro":"52度  国窖   500ml ","you":"减","hui":"下单立减89元  多买多减","rmb":"￥","price":"899","count":"424"},
+			{"id":"5","name":"五粮液","img":"imglist/0e1.jpg","pic":"imglist/0e2.jpg","intro":"52度  五粮液  500ml ","you":"级","hui":"点击查看会员价","rmb":"￥","price":"858","count":"305"},
+			{"id":"6","img":"imglist/0f1.jpg","pic":"imglist/0f2.jpg","intro":"52度  剑南春  500ml ","you":"抢","hui":"限时抢购","rmb":"￥","price":"359","count":"502"},
+			{"id":"7","img":"imglist/0g1.jpg","pic":"imglist/0g2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"8","img":"imglist/0h1.jpg","pic":"imglist/0h2.jpg","intro":"52度  剑南春  500ml ","you":"级","hui":"登录查看会员价","rmb":"￥","price":"359","count":"502"},
+			{"id":"9","img":"imglist/0i1.jpg","pic":"imglist/0i2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"10","img":"imglist/0j1.jpg","pic":"imglist/0j2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"11","img":"imglist/0k1.jpg","pic":"imglist/0k2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"12","img":"imglist/0a1.jpg","pic":"imglist/0a2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"13","img":"imglist/0i1.jpg","pic":"imglist/0i2.jpg","intro":"52度  五粮液  500ml ","you":"抢","hui":"传世千年  凤香经典","rmb":"￥","price":"858","count":"305"},
+			{"id":"14","img":"imglist/0j1.jpg","pic":"imglist/0j2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"15","img":"imglist/0k1.jpg","pic":"imglist/0k2.jpg","intro":"52度  五粮液  500ml ","you":"抢","hui":"相识文君  品味卓越","rmb":"￥","price":"858","count":"305"},
+			{"id":"16","img":"imglist/0a1.jpg","pic":"imglist/0a2.jpg","intro":"52度  剑南春  500ml ","you":"抢","hui":"商超经典版","rmb":"￥","price":"359","count":"502"},			
+			{"id":"17","img":"imglist/0i1.jpg","pic":"imglist/0i2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"18","img":"imglist/0j1.jpg","pic":"imglist/0j2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"19","img":"imglist/0k1.jpg","pic":"imglist/0k2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"20","img":"imglist/0a1.jpg","pic":"imglist/0a2.jpg","intro":"【组合装】53度 茅台飞天酒（2017年产） 500ml 53度 珍酒经典1975（金） 500ml ","you":"","hui":"","rmb":"￥","price":"1769","count":"424"},
+			{"id":"21","img":"imglist/0b1.jpg","pic":"imglist/0b2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"22","img":"imglist/0c1.jpg","pic":"imglist/0c2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"23","img":"imglist/0d1.jpg","pic":"imglist/0d2.jpg","intro":"52度  国窖   500ml ","you":"减","hui":"下单立减89元  多买多减","rmb":"￥","price":"899","count":"424"},
+			{"id":"24","img":"imglist/0e1.jpg","pic":"imglist/0e2.jpg","intro":"52度  五粮液  500ml ","you":"级","hui":"点击查看会员价","rmb":"￥","price":"858","count":"305"},
+			{"id":"25","img":"imglist/0f1.jpg","pic":"imglist/0f2.jpg","intro":"52度  剑南春  500ml ","you":"抢","hui":"限时抢购","rmb":"￥","price":"359","count":"502"},
+			{"id":"26","img":"imglist/0g1.jpg","pic":"imglist/0g2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"27","img":"imglist/0h1.jpg","pic":"imglist/0h2.jpg","intro":"52度  剑南春  500ml ","you":"级","hui":"登录查看会员价","rmb":"￥","price":"359","count":"502"},
+			{"id":"28","img":"imglist/0i1.jpg","pic":"imglist/0i2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"29","img":"imglist/0j1.jpg","pic":"imglist/0j2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"30","img":"imglist/0k1.jpg","pic":"imglist/0k2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"31","img":"imglist/0a1.jpg","pic":"imglist/0a2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"32","img":"imglist/0i1.jpg","pic":"imglist/0i2.jpg","intro":"52度  五粮液  500ml ","you":"抢","hui":"传世千年  凤香经典","rmb":"￥","price":"858","count":"305"},
+			{"id":"33","img":"imglist/0j1.jpg","pic":"imglist/0j2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"34","img":"imglist/0k1.jpg","pic":"imglist/0k2.jpg","intro":"52度  五粮液  500ml ","you":"抢","hui":"相识文君  品味卓越","rmb":"￥","price":"858","count":"305"},
+			{"id":"35","img":"imglist/0a1.jpg","pic":"imglist/0a2.jpg","intro":"52度  剑南春  500ml ","you":"抢","hui":"商超经典版","rmb":"￥","price":"359","count":"502"},		
+			{"id":"36","img":"imglist/0i1.jpg","pic":"imglist/0i2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"37","img":"imglist/0j1.jpg","pic":"imglist/0j2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"38","img":"imglist/0k1.jpg","pic":"imglist/0k2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"39","img":"imglist/0i1.jpg","pic":"imglist/0i2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"40","img":"imglist/0j1.jpg","pic":"imglist/0j2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"}
+		],
+		[
+			{"id":"41","img":"imglist/0j1.jpg","pic":"imglist/0j2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"},
+			{"id":"42","img":"imglist/0k1.jpg","pic":"imglist/0k2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"43","img":"imglist/0i1.jpg","pic":"imglist/0i2.jpg","intro":"52度  五粮液  500ml ","you":"","hui":"","rmb":"￥","price":"858","count":"305"},
+			{"id":"44","img":"imglist/0j1.jpg","pic":"imglist/0j2.jpg","intro":"52度  剑南春  500ml ","you":"","hui":"","rmb":"￥","price":"359","count":"502"}
+		
+		]
+	]
+
+}
